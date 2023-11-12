@@ -12,9 +12,9 @@ The objective of this project is to create a sentiment analysis app. a well-desi
 
 ## Summary
 
-| Code | Name                  |                                                                     Published Article                                                                      | Deployed App |
-| ---- | --------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | -----------: |
-| LP3  | Sentiment Application | [Article](https://medium.com/@chipmnkal/store-sales-time-series-forecasting-4c3bbc6eaca2) [Application] (https://huggingface.co/spaces/VINAL/SentimentApp) |              |
+| Code | Name                  |                                     Published Article                                     |                                                     Deployed App |
+| ---- | --------------------- | :---------------------------------------------------------------------------------------: | ---------------------------------------------------------------: |
+| LP3  | Sentiment Application | [Article](https://medium.com/@chipmnkal/store-sales-time-series-forecasting-4c3bbc6eaca2) | [Application] (https://huggingface.co/spaces/VINAL/SentimentApp) |
 
 ## Author
 
