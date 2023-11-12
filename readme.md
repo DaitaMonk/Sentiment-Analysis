@@ -1,7 +1,5 @@
 # <center>Sentiment Application</center>
 
-![Alt text](app.png)
-
 ## Introduction
 
 Sentiment analysis, also known as opinion mining, is a subfield of natural language processing (NLP) that involves the use of computational methods to determine the sentiment or emotional tone expressed in a piece of text. The primary goal of sentiment analysis is to identify and understand the subjective information present in the text, which can be categorized as positive, negative, or neutral.
