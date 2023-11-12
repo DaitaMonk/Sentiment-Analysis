@@ -1,6 +1,6 @@
 # <center>Sentiment Application</center>
 
-
+![Screenshot (878)](https://github.com/DaitaMonk/Sentiment-Analysis/assets/95459294/2517f258-ceed-4e3a-8349-4d567874ffdd)
 
 ## Introduction
 
