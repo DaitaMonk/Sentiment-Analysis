@@ -1,6 +1,6 @@
 # <center>Sentiment Application</center>
 
-![Alt text](<https://github.com/DaitaMonk/Sentiment-Analysis/blob/master/Screenshot%20(878).png>)
+![Alt text](app.png)
 
 ## Introduction
 
