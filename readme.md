@@ -10,6 +10,38 @@ Sentiment analysis, also known as opinion mining, is a subfield of natural langu
 
 The objective of this project is to create a sentiment analysis app. a well-designed and user-friendly sentiment analysis app can provide valuable insights and benefits across a diverse range of industries and professions like, businesses and brands, customer support, social media managers and many more.
 
+## docker container and image
+
+![app](https://github.com/DaitaMonk/Sentiment-Analysis/assets/Screenshot (879).png)
+
+![app](https://github.com/DaitaMonk/Sentiment-Analysis/assets/Screenshot (880).png)
+
+## How to usse the app
+
+- Navigate to the Roberta page
+- Type text in the big text box
+- press analyze sentiment button
+
+Example of sentences to input:
+
+- The New Vaccine is bad
+
+- Getting my vaccines !
+
+- Covid-19 is spreading fast
+
+Sample output
+
+Confidence Scores
+
+- Negative: 0.9249
+
+- Positive: 0.0554
+
+- Neutral: 0.0197
+
+The machine has predicted the output to be nagative sentiment (Negative: 0.9249)
+
 ## Summary
 
 | Code | Name                  |                            Published Article                             |                                                    Deployed App |
