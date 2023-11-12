@@ -1,40 +1,21 @@
-# Project : Natural Language Processing
+# <center>Sentiment Application</center>
 
-## Description
+![Alt text](<Screenshot (878).png>)
 
-This repository contains the ressources to start the NLP-related live project you shoud take. The below assignments will introduce you in Unstructured data exploitation, especially Natural Language Processing data, using ML. 
+## Introduction
 
-## Assignments
-Find the list of assignments below:
-- [Zindi NLP Challenge](/zindi_challenge/)
+Sentiment analysis, also known as opinion mining, is a subfield of natural language processing (NLP) that involves the use of computational methods to determine the sentiment or emotional tone expressed in a piece of text. The primary goal of sentiment analysis is to identify and understand the subjective information present in the text, which can be categorized as positive, negative, or neutral.
 
-## Setup
-Install the required packages to be able to run the evaluation locally.
+## Objective
 
-You need to have [`Python3`](https://www.python.org/) on your system. Then you can clone this repo and being at the repo's root (`root :: repo_name> ...`)  follow the steps below:
+The objective of this project is to create a sentiment analysis app. a well-designed and user-friendly sentiment analysis app can provide valuable insights and benefits across a diverse range of industries and professions like, businesses and brands, customer support, social media managers and many more.
 
-- Windows:
-        
-        python -m venv venv; venv\Scripts\activate; python -m pip install -q --upgrade pip; python -m pip install -qr requirements.txt  
+## Summary
 
-- Linux & MacOs:
-        
-        python3 -m venv venv; source venv/bin/activate; python -m pip install -q --upgrade pip; python -m pip install -qr requirements.txt  
+| Code | Name                  |                                                                     Published Article                                                                      | Deployed App |
+| ---- | --------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | -----------: |
+| LP3  | Sentiment Application | [Article](https://medium.com/@chipmnkal/store-sales-time-series-forecasting-4c3bbc6eaca2) [Application] (https://huggingface.co/spaces/VINAL/SentimentApp) |              |
 
-The both long command-lines have a same structure, they pipe multiple commands using the symbol **;** but you may manually execute them one after another.
+## Author
 
-1. **Create the Python's virtual environment** that isolates the required libraries of the project to avoid conflicts;
-2. **Activate the Python's virtual environment** so that the Python kernel & libraries will be those of the isolated environment;
-3. **Upgrade Pip, the installed libraries/packages manager** to have the up-to-date version that will work correctly;
-4. **Install the required libraries/packages** listed in the `requirements.txt` file so that it will be allow to import them into the python's scripts and notebooks without any issue.
-
-**NB:** For MacOs users, please install `Xcode` if you have an issue.
-
-## Ressources
-1. [Quick intro to NLP](https://www.youtube.com/watch?v=CMrHM8a3hqw)
-1. [Getting Started With Hugging Face in 15 Minutes](https://www.youtube.com/watch?v=QEaBAZQCtwE)
-1. [Fine-tuning a Neural Network explained](https://www.youtube.com/watch?v=5T-iXNNiwIs)
-1. [Fine-Tuning-DistilBert - Hugging Face Transformer for Poem Sentiment Prediction | NLP](https://www.youtube.com/watch?v=zcW2HouIIQg)
-1. [Introduction to NLP: Playlist](https://www.youtube.com/playlist?list=PLM8wYQRetTxCCURc1zaoxo9pTsoov3ipY)
-<!-- 1. [](https://www.youtube.com/)
-1. [](https://www.youtube.com/) -->
+- [Alvin Momoh](https://github.com/DaitaMonk)
