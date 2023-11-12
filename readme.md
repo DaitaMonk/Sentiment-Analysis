@@ -1,6 +1,6 @@
 # <center>Sentiment Application</center>
 
-![Alt text](<Screenshot (878).png>)
+[Alt text](<Screenshot (878).png>)
 
 ## Introduction
 
