@@ -46,7 +46,7 @@ The machine has predicted the output to be nagative sentiment (Negative: 0.9249)
 
 | Code | Name                  |                            Published Article                             |                                                    Deployed App |
 | ---- | --------------------- | :----------------------------------------------------------------------: | --------------------------------------------------------------: |
-| LP3  | Sentiment Application | [Article](https://medium.com/@chipmnkal/sentiment-analysis-fd55becd6f3b) | [Application](https://huggingface.co/spaces/VINAL/SentimentApp) |
+| LP3  | Sentiment Application | [Article](https://medium.com/@chipmnkal/sentiment-analysis-fd55becd6f3b) | [Application](https://vinal-sentimentapp.hf.space) |
 
 ## Author
 
